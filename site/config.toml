@@ -1,0 +1,4 @@
+baseURL = "http://nathaniel.nz/"
+languageCode = "en-us"
+title = "Nathaniel Sutton"
+theme = "loveit"
